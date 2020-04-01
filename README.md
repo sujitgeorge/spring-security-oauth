@@ -4,6 +4,7 @@ This project provides support for using Spring Security with OAuth
 (1a) and OAuth2.  It provides features for implementing both consumers
 and providers of these protocols using standard Spring and Spring
 Security programming models and configuration idioms.
+#TESTING
 
 # Code of Conduct
 This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.adoc).
